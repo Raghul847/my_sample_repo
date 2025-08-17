@@ -1,6 +1,6 @@
 # Retail Inventory Turnover Analysis (2024)
 
-**Analyst:** Raghul Gnanasekaran  
+**Analyst:** Raghul847
 **Email:** 23f2002365@ds.study.iitm.ac.in  
 
 ## 📊 Key Findings
